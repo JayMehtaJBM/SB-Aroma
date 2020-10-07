@@ -193,7 +193,7 @@ span a:hover {
     align-items: center;
     flex-direction: column;
     z-index: 2;
-    visibility: none;
+    visibility: hidden;
     opacity: 0;
     transition: .5s;
     transition-delay: 0s;
